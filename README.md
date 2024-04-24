@@ -1,5 +1,4 @@
-
-<h1> PROGETTO LABORATORIO INFORMATICA 2023/24<br> 
+<h1 align="center"; color="yellow"> PROGETTO LABORATORIO INFORMATICA 2023/24<br> ———————————————————<br>
   Gruppo: Di Grassi, Schiavo, Martilotti</h1>
 
 <h2>-Scelta di una traccia tra:</h2>
