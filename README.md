@@ -1,23 +1,25 @@
-PROGETTO LABORATORIO INFORMATICA 2023/24 Gruppo Di Grassi, Schiavo, Martilotti
 
--Scelta di una traccia tra:
+<h1> PROGETTO LABORATORIO INFORMATICA 2023/24<br> 
+  Gruppo: Di Grassi, Schiavo, Martilotti</h1>
 
-1-Eventi culturali
-Una città desidera promuovere la cultura e il turismo attraverso l’organizzazione di eventi
-culturali quali concerti, mostre d’arte, spettacoli teatrali, e laboratori didattici. Per farlo, vuole
-implementare un sistema integrato che faciliti la pianificazione, promozione, e gestione di
-questi eventi, migliorando l’esperienza di organizzatori e partecipanti.
-Il sistema deve consentire agli organizzatori di eventi di registrarsi, inserire i dettagli degli
-eventi (come data, ora, luogo, tipo di evento, capienza massima), gestire le prenotazioni dei
-partecipanti e aggiornare le informazioni relative agli eventi. Inoltre, gli organizzatori devono
-poter ricevere feedback dai partecipanti.
-Per i partecipanti, il sistema deve offrire la possibilità di cercare gli eventi per categoria, data,
-o luogo, effettuare prenotazioni, e pagare i biglietti online. Dovrebbe anche fornire
-raccomandazioni personalizzate in base ai loro interessi culturali.
-Il sistema dovrebbe infine consentire la generazione di report sull’affluenza e sui feedback
-raccolti, per aiutare gli organizzatori a migliorare gli eventi futuri
-
-2- Mobilità sostenibile
+<h2>-Scelta di una traccia tra:</h2>
+<div>
+  <h3>1-Eventi culturali</h3>
+  Una città desidera promuovere la cultura e il turismo attraverso l’organizzazione di eventi
+  culturali quali concerti, mostre d’arte, spettacoli teatrali, e laboratori didattici. Per farlo, vuole
+  implementare un sistema integrato che faciliti la pianificazione, promozione, e gestione di
+  questi eventi, migliorando l’esperienza di organizzatori e partecipanti.
+  Il sistema deve consentire agli organizzatori di eventi di registrarsi, inserire i dettagli degli
+  eventi (come data, ora, luogo, tipo di evento, capienza massima), gestire le prenotazioni dei
+  partecipanti e aggiornare le informazioni relative agli eventi. Inoltre, gli organizzatori devono
+  poter ricevere feedback dai partecipanti.
+  Per i partecipanti, il sistema deve offrire la possibilità di cercare gli eventi per categoria, data,
+  o luogo, effettuare prenotazioni, e pagare i biglietti online. Dovrebbe anche fornire
+  raccomandazioni personalizzate in base ai loro interessi culturali.
+  Il sistema dovrebbe infine consentire la generazione di report sull’affluenza e sui feedback
+  raccolti, per aiutare gli organizzatori a migliorare gli eventi futuri
+</div>
+<h3>2- Mobilità sostenibile</h3>
 Una città impegnata a promuovere la sostenibilità ambientale desidera implementare un
 sistema di bike sharing per incoraggiare i cittadini a scegliere metodi di trasporto più
 ecologici.
@@ -34,7 +36,7 @@ sharing gli strumenti per monitorare lo stato della flotta, gestire le segnalazi
 ottimizzare la distribuzione delle biciclette nelle varie stazioni e raccogliere dati sull’utilizzo
 del servizio per pianificare eventuali ampliamenti o miglioramenti.
 
-3-Budget personale
+<h3>3-Budget personale</h3>
 Sviluppare un semplice simulatore di bilancio personale. Questo strumento dovrebbe aiutare
 gli utenti a gestire le proprie finanze, consentendo loro di inserire le entrate e le uscite
 previste e di calcolare il saldo finale per un determinato periodo.
@@ -49,7 +51,7 @@ Il programma dovrebbe infine essere in grado di analizzare le abitudini di spesa
 di suggerire modi per migliorare la gestione del bilancio, ad esempio riducendo determinate
 spese o modificandone la frequenza.
 
-4-Impariamo a programmare
+<h3>4-Impariamo a programmare</h3>
 Sviluppare un videogioco semplice ma coinvolgente, il cui obiettivo è introdurre gli utenti (ad
 esempio, gli studenti delle scuole secondarie inferiori) al mondo della programmazione.
 Il gioco dovrebbe essere ambientato in un universo digitale in cui il giocatore assume il ruolo
