@@ -1,4 +1,4 @@
-<h1 align="center"; color="yellow"> PROGETTO LABORATORIO INFORMATICA 2023/24<br><img src="https://universitycorridors.unhcr.it/wp-content/uploads/2021/02/logo_UNIBA_CMYK.jpeg">![](https://universitycorridors.unhcr.it/wp-content/uploads/2021/02/logo_UNIBA_CMYK.jpeg?raw==true)<br> ———————————————————<br>
+<h1 align="center"; color="yellow"> PROGETTO LABORATORIO INFORMATICA 2023/24<br><img src="https://universitycorridors.unhcr.it/wp-content/uploads/2021/02/logo_UNIBA_CMYK.jpeg" style="heigth: 50; width:50;" ><br> ———————————————————<br>
   Gruppo: Di Grassi, Schiavo, Martilotti</h1>
 
 <h2>2- Mobilità sostenibile</h2>
