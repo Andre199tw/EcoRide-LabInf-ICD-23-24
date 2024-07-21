@@ -1,4 +1,4 @@
-<h1 align="center"; color="yellow"> PROGETTO LABORATORIO INFORMATICA 2023/24<br>![a](https://www.google.com/url?sa=i&url=https%3A%2F%2Funiversitycorridors.unhcr.it%2Funiversities%2Funiversita-degli-studi-di-bari-aldo-moro%2F&psig=AOvVaw03iYfbHLjGURv8vOnonvFe&ust=1721657461563000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjWrP2nuIcDFQAAAAAdAAAAABAE)<br> ———————————————————<br>
+<h1 align="center"; color="yellow"> PROGETTO LABORATORIO INFORMATICA 2023/24<br>![](https://universitycorridors.unhcr.it/wp-content/uploads/2021/02/logo_UNIBA_CMYK.jpeg)<br> ———————————————————<br>
   Gruppo: Di Grassi, Schiavo, Martilotti</h1>
 
 <h2>2- Mobilità sostenibile</h2>
